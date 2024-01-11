@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{988BFC24-E44B-45A4-9441-D5BD36E61CBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/Repository.cs">
+    <Files>
+      <File FileName="Repositories/Interfaces/IRepository.cs" />
+      <File FileName="Repositories/Repository.cs" Line="54" Column="1" />
+      <File FileName="Dtos/PersonalDetailsDto.cs" />
+      <File FileName="Controllers/PersonalDetailsController.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
